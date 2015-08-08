@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   # Set the endpoint
-  mount_gridder
+  mount_griddler
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
